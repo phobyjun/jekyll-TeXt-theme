@@ -10,7 +10,7 @@ comment: true
 ## UDF의 이점
 
 1. UDFs는 모듈러 프로그래밍(modular programming)을 지원한다. 일단 UDF를 만들고 데이터베이스에 저장하면, 몇번이든 불러와 사용할 수 있다. 또한 소스 코드와 독립적으로 UDF를 수정할 수 있다.
-2. UDFs는 캐싱 플랜(caching plas)과 반복 실행을 위한 재사용을 통해 T-SQL 코드의 compilation cost를 줄인다.
+2. UDFs는 캐싱 플랜(caching plan)과 반복 실행을 위한 재사용을 통해 T-SQL 코드의 compilation cost를 줄인다.
 3. 네트워크 트래픽을 줄일 수 있다. 만약 복잡한 제약 조건(constraint)을 가진 데이터를 필터링(filter)하기를 원한다면, 이는 UDF로서 표현 될 수 있다. 그 다음, WHERE 절 안에서 이 UDF를 사용할 수 있다.
 
 ## UDF의 종류
