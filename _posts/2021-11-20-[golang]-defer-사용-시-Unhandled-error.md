@@ -3,7 +3,9 @@ title: "[golang] defer 사용 시 Unhandled error"
 
 tags: [golang, go, defer, goland, unhandled error]
 
-comments: true![Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
+excerpt: Go에서 defer 사용 시 에러 핸들링
+
+comments: true!
 ---
 
 ## go defer
