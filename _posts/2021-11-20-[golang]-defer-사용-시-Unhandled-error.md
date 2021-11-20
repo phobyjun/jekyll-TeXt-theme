@@ -14,7 +14,7 @@ Golang에서 defer 사용 시 `Unhandled error` 라는 에러가 발생할 때�
 
 ## defer 키워드
 
-[golang.org](golang.org/ref/spec#Defer_statements)에서 설명하는 defer는 다음과 같다.
+[golang.org](https://golang.org/ref/spec#Defer_statements)에서 설명하는 defer는 다음과 같다.
 
 > defer문은 외부 함수의 끝에 도달해 return문을 실행했거나 해당 고루틴이 panic 상태에 있기 때문에 외부 함수가 반환되는 순간까지 실행이 연기되는 함수를 호출합니다.
 
