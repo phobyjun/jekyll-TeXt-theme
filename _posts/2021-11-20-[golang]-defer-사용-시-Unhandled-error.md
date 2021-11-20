@@ -26,7 +26,9 @@ Golang에서 defer 사용 시 `Unhandled error` 라는 에러가 발생할 때�
 
 golang의 http 모듈에서 `Get()`을 통해 request를 보내게 되면 reponse를 받아 처리 후 `.Body.Close()`를 통해 닫아주어야 한다. 이 `Close()` 함수는 결과값이 반환되기 전에 실행되면 안되기 때문에 `defer` 키워드를 통해 결과값이 반환되고 함수가 끝나기 바로 직전에 실행시키는 것이다. 하지만 사진을 보면 연노랑색 박스가 쳐져있는 것을 볼 수 있다.
 
-![](/assets/img/2021-11-20-1/1.png)이 부분에서 바로 Unhandled error를 확인할 수 있다.
+![](/assets/img/2021-11-20-1/1.png)
+
+이 부분에서 바로 Unhandled error를 확인할 수 있다.
 
 ## Unhandled error
 
