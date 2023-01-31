@@ -10,7 +10,7 @@ comments: true!
 
 # **Wrapper Class**
 
-> 스터디 준비 자료로 작성한 글입니다. 원본은 [github](https://github.com/KHU-Dasom/jinja-study/blob/main/6%EC%A3%BC%EC%B0%A8_JAVA/%EC%9C%A4%EC%A4%80%EC%84%9D_Wrapper_Class.md)에서 확인 가능합니다.
+> 스터디 준비 자료로 작성한 글입니다. 원본은 [github](https://github.com/KHU-Dasom/jinja-study/blob/main/06%EC%A3%BC%EC%B0%A8_JAVA/%EC%9C%A4%EC%A4%80%EC%84%9D_Wrapper_Class.md)에서 확인 가능합니다.
 
 ## **Java Data Type**
 

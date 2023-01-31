@@ -10,7 +10,7 @@ comments: true!
 
 # **⚡️ 직렬화(Serialize)**
 
-> 스터디 준비 자료로 작성한 글입니다. 원본은 [github](https://github.com/KHU-Dasom/jinja-study/blob/main/8%EC%A3%BC%EC%B0%A8_JAVA/%EC%9C%A4%EC%A4%80%EC%84%9D_Serialize.md)에서 확인 가능합니다.
+> 스터디 준비 자료로 작성한 글입니다. 원본은 [github](https://github.com/KHU-Dasom/jinja-study/blob/main/08%EC%A3%BC%EC%B0%A8_JAVA/%EC%9C%A4%EC%A4%80%EC%84%9D_Serialize.md)에서 확인 가능합니다.
 
 ## **직렬화란?**
 

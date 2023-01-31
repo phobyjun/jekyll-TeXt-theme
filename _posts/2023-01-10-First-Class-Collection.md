@@ -10,7 +10,7 @@ comments: true!
 
 # **🔥 일급 컬렉션**
 
-> 스터디 준비 자료로 작성한 글입니다. 원본은 [github](https://github.com/KHU-Dasom/jinja-study/blob/main/7%EC%A3%BC%EC%B0%A8_JAVA/%EC%9C%A4%EC%A4%80%EC%84%9D_First_Class_Collection.md)에서 확인 가능합니다.
+> 스터디 준비 자료로 작성한 글입니다. 원본은 [github](https://github.com/KHU-Dasom/jinja-study/blob/main/07%EC%A3%BC%EC%B0%A8_JAVA/%EC%9C%A4%EC%A4%80%EC%84%9D_First_Class_Collection.md)에서 확인 가능합니다.
 
 ## **👉 일급 컬렉션**
 
