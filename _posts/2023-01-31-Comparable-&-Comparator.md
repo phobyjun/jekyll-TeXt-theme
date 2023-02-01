@@ -3,7 +3,7 @@ title: "[JAVA] Comparable & Comparator"
 
 tags: [Java, JVM, Comparable, Comparator, Sorting, 비교, 정렬, 자바]
 
-excerpt: Java의 직렬화(Serialization)에 대해
+excerpt: Java의 Comparable과 Comparator에 대해
 
 comments: true!
 ---
